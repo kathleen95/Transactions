@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # contents of /output folder
-./output/*
+output/
