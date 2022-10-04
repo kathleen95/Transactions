@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 # contents of /output folder
-output/
+output/*
+!output/.gitkeep
